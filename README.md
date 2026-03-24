@@ -2,54 +2,72 @@
 
 # RNNLD
 
-Personal sound laboratory.
+### Personal Sound Laboratory
 
-Audio experiments, synth studies and production sketches.
+Audio experiments • Synth studies • Production sketches
 
 </p>
 
 ---
 
-## Listen
+<p align="center">
 
-https://soundcloud.com/rnnld
+<a href="https://soundcloud.com/rnnld">
+<img src="https://img.shields.io/badge/SOUNDCLOUD-LISTEN-orange?style=for-the-badge">
+</a>
 
----
-
-## About
-
-Collection of personal sound experiments, production tests and synthesis studies.
-
-This space documents ongoing exploration in sound design, texture and musical structure.
-
-Some ideas may later evolve into larger works or audiovisual projects.
+</p>
 
 ---
 
-## Areas of Exploration
+## Overview
 
-Sound Design  
-Synth Programming  
-Audio Production  
-Experimental Music  
+Personal archive of sound experiments, synthesis studies and production tests.
+
+Exploration of texture, structure and sonic environments.
+
+---
+
+## Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Sound%20Design-black">
+
+<img src="https://img.shields.io/badge/Synthesis-grey">
+
+<img src="https://img.shields.io/badge/Audio%20Production-blue">
+
+<img src="https://img.shields.io/badge/Experimental-orange">
+
+</p>
 
 ---
 
 ## Tools
 
-Synthesizers  
-Ableton Live  
-Pro Tools  
-Hardware Processing  
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Ableton-Live-black">
 
-## Notes
+<img src="https://img.shields.io/badge/Pro%20Tools-Studio-purple">
 
-All material composed and produced by the artist.
+<img src="https://img.shields.io/badge/Hardware-Synths-grey">
+
+<img src="https://img.shields.io/badge/Audio-Processing-blue">
+
+</p>
 
 ---
 
 ## Status
 
-Ongoing
+Active experiments  
+Ongoing research
+
+---
+
+## Related Project
+
+Dronealt:
+https://dronealt.bandcamp.com/music
