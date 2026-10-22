@@ -1,73 +1,29 @@
-<p align="center">
+<img src="./assets/repository-cover.svg" width="100%" alt="Rnnld Audio — Laboratorio de síntesis y diseño sonoro">
 
-# RNNLD
+[← Perfil principal](https://github.com/guzmandavila) &nbsp; / &nbsp; [Portafolio ES](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_ES.md) &nbsp; / &nbsp; [Portfolio EN](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md)
 
-### Personal Sound Laboratory
+### [Escuchar en SoundCloud ↗](https://soundcloud.com/rnnld)
 
-Audio experiments • Synth studies • Production sketches
+Archivo personal de experimentos de audio, estudios de síntesis y pruebas de producción. Reúne trabajo de exploración de textura, estructura y entornos sonoros.
 
-</p>
+## Áreas de trabajo
 
----
+**Síntesis** / Estudios y experimentos con sintetizadores de hardware.  
+**Diseño sonoro** / Texturas, procesamiento y construcción de entornos sonoros.  
+**Producción de audio** / Bocetos y pruebas de producción.
 
-<p align="center">
+## Herramientas
 
-<a href="https://soundcloud.com/rnnld">
-<img src="https://img.shields.io/badge/SOUNDCLOUD-LISTEN-orange?style=for-the-badge">
-</a>
+Ableton Live · Pro Tools Studio · Sintetizadores de hardware · Procesamiento de audio
 
-</p>
+## Escucha y proyectos relacionados
 
----
+El archivo de escucha está en [SoundCloud](https://soundcloud.com/rnnld). Las publicaciones del proyecto ambient y drone están en [Dronealt / Bandcamp](https://dronealt.bandcamp.com/music).
 
-## Overview
+[Ver el repositorio de Dronealt →](https://github.com/guzmandavila/dronealt)
 
-Personal archive of sound experiments, synthesis studies and production tests.
-
-Exploration of texture, structure and sonic environments.
+Investigación y experimentación en curso.
 
 ---
 
-## Focus
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Sound%20Design-black">
-
-<img src="https://img.shields.io/badge/Synthesis-grey">
-
-<img src="https://img.shields.io/badge/Audio%20Production-blue">
-
-<img src="https://img.shields.io/badge/Experimental-orange">
-
-</p>
-
----
-
-## Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Ableton-Live-black">
-
-<img src="https://img.shields.io/badge/Pro%20Tools-Studio-purple">
-
-<img src="https://img.shields.io/badge/Hardware-Synths-grey">
-
-<img src="https://img.shields.io/badge/Audio-Processing-blue">
-
-</p>
-
----
-
-## Status
-
-Active experiments  
-Ongoing research
-
----
-
-## Related Project
-
-Dronealt:
-https://dronealt.bandcamp.com/music
+[Perfil principal](https://github.com/guzmandavila) &nbsp; / &nbsp; [Escríbeme ↗](https://wa.me/593979864314)
