@@ -1,10 +1,10 @@
-<img src="./assets/repository-cover.svg" width="100%" alt="Rnnld Audio — Laboratorio de síntesis y diseño sonoro">
+<img src="./assets/nai-cover.svg" width="100%" alt="ñai — Laboratorio de síntesis y diseño sonoro">
 
 [← Perfil principal](https://github.com/guzmandavila) &nbsp; / &nbsp; [Portafolio ES](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_ES.md) &nbsp; / &nbsp; [Portfolio EN](https://github.com/guzmandavila/portfolio/blob/main/PORTFOLIO_EN.md)
 
 ### [Escuchar en SoundCloud ↗](https://soundcloud.com/rnnld)
 
-Archivo personal de experimentos de audio, estudios de síntesis y pruebas de producción. Reúne trabajo de exploración de textura, estructura y entornos sonoros.
+**ñai** es mi proyecto de experimentación sonora: estudios de síntesis, diseño sonoro y pruebas de producción. Reúne trabajo de exploración de textura, estructura y entornos sonoros.
 
 ## Áreas de trabajo
 
